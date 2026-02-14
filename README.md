@@ -107,6 +107,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Adrenaline](https://useadrenaline.com/)** - A web-based AI-powered debugging assistant and chatbot that analyzes code, error messages, and stack traces to suggest fixes.
 
+**[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
+
 **[Aider](https://aider.chat/)** - An open-source AI pair programming tool that works directly in your terminal, offering Git integration, multi-file editing, and natural language commands for code generation, debugging, refactoring, and automated commits.
 
 **[AI Code Convert](https://aicodeconvert.com/)** - A web-based tool for translating code between programming languages using AI.
