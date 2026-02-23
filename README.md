@@ -370,6 +370,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
 
+**[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
+
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
 
 **[Phind](https://www.phind.com/)** - An AI search engine specifically designed for developers, providing direct answers to technical questions with code examples.
