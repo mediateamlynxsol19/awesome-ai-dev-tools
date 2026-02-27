@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **242+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **253+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -544,4 +544,4 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 ---
 
-*Last updated: May 2025*
+*Last updated: February 2026*
