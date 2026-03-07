@@ -102,6 +102,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Buildkite](https://buildkite.com/)** - A build automation platform with AI-enhanced pipeline optimization features.
 
+**[BurnRate](https://getburnrate.io)** - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
+
 **[Buildt](https://www.buildt.ai/)** - A tool for natural language search across repositories (currently waitlisted).
 
 **[Butterfish](https://butterfi.sh)** - A CLI tool that embeds ChatGPT directly into your shell for easy access and simple agentic capabilities.
