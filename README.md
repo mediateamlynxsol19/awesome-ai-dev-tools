@@ -384,6 +384,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Pieces](https://pieces.app/)** - An AI-enabled desktop application and browser extension for code capture, enrichment, and reuse, with on-device processing and multi-IDE integration.
 
+
+**[PitchDocs](https://github.com/littlebearapps/pitchdocs)** - A Claude Code plugin that generates professional, marketing-ready repository documentation — README, CHANGELOG, CONTRIBUTING, AI context files, and 15+ more files with evidence-based feature extraction and quality scoring.
 **[Pixee](https://pixee.ai/)** - Pixeebot automatically finds security and code quality issues, creating merge-ready pull requests with recommended fixes.
 
 **[Plandex](https://plandex.ai/)** - An open-source, terminal-based AI coding engine designed for complex projects, allowing for multi-step planning and execution.
