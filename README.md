@@ -444,6 +444,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Shadcn](https://ui.shadcn.com/)** - A popular UI component library, often used with AI-generated code.
 
+**[sharable.link](https://sharable.link)** - A free Claude skill that publishes HTML outputs to clean, shareable public URLs. One `/share` command turns dashboards, reports, and landing pages into links anyone can open — no account needed.
+
 **[Shell Whiz](https://github.com/beimzhan/shell-whiz)** - A highly configurable CLI assistant for generating and explaining shell commands.
 
 **[Smol Developer](https://github.com/smol-ai/developer)** - A CLI agent that generates entire repositories from a prompt, using OpenAI and Anthropic.
