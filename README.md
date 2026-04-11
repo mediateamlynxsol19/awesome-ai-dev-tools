@@ -500,6 +500,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
+**[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
+
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
 **[Trag](https://usetrag.com/)** - An AI-powered code review tool with customizable patterns and pre-defined instructions.
