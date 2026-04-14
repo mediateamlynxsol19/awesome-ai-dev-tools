@@ -422,6 +422,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Refact.ai](https://refact.ai/)** - An open-source AI coding assistant using the Qwen2.5-Coder model with Retrieval-Augmented Generation (RAG) for context-aware code completion and refactoring.
 
+**[Repowise](https://github.com/repowise-dev/repowise)** - An open-source codebase intelligence tool for AI coding agents that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
+
 **[Rendition Create](https://www.renditioncreate.com/)** - A browser-based tool for creating and iterating new UI components.
 
 **[Replit](https://replit.com/)** - A cloud-based IDE with AI-powered coding assistance (Ghostwriter), real-time collaboration, and instant deployment features.
