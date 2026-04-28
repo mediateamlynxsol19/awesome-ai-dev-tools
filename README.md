@@ -364,6 +364,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Nova](https://www.trynova.ai/)** - A CI bot that adds actions like summaries and tests to new pull requests.
 
+**[Northflank](https://northflank.com/)** - A platform for deploying and running applications and AI workloads, with support for isolated, ephemeral environments for executing code and agents.
+
 **[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
 **[Onboard](https://www.getonboardai.com)** - An AI chat platform that allows users to chat with AI about public and private codebases.
