@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **253+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **261+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -124,6 +124,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Checksum AI](https://checksum.ai/)** - An end-to-end autonomous QA automation agent that generates CI/CD ready Playwright tests directly to the repository.
 
+**[Claude Code](https://code.claude.com/)** - Anthropic's official agentic CLI coding tool that runs in your terminal, understands your codebase, and executes multi-step tasks through natural language. Supports VS Code and JetBrains IDE integration, GitHub/GitLab workflows, MCP servers, and multi-agent orchestration.
+
 **[Cline](https://cline.bot/)** - A VS Code extension and open-source AI coding assistant that can execute terminal commands, manage files, interact with browsers, and supports multiple AI models.
 
 **[Clone UI](https://clone-ui.design/)** - A tool dedicated to generating Tailwind CSS UI components.
@@ -145,6 +147,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[CodeClimate](https://codeclimate.com/)** - A platform that provides code quality and maintainability insights through automated analysis.
 
 **[CodeComplete](https://codecomplete.ai/)** - A self-hosted enterprise code completion assistant.
+
+**[Codeep](https://codeep.dev/)** - An open-source terminal AI coding agent that autonomously reads, edits, and verifies code across major providers including DeepSeek, Claude, and Gemini, with self-healing test runs and a VS Code extension.
 
 **[CodeFlash AI](https://www.codeflash.ai/)** - A CLI and CI tool that uses AI for optimizing Python code.
 
@@ -187,6 +191,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Create.xyz](https://www.create.xyz/)** - An AI tool focused on creating prototypes and website designs.
 
 **[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
+
+**[CruxCLI](https://cruxcli.io/)** - A provider-agnostic open-source terminal AI coding agent with 24 task-specific modes that automatically map to model tiers, per-mode token budgets, workspace checkpoints, and support for 75+ LLM providers including Anthropic, OpenAI, Google, and Ollama.
 
 **[Cursor](https://cursor.sh/)** - An AI-first code editor built on a VS Code fork, deeply integrating AI features like codebase-aware chat, code generation, debugging assistance, and automated code migration.
 
@@ -240,6 +246,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Galileo AI](https://www.usegalileo.ai/)** - A text-to-UI platform for generating user interfaces from text prompts (currently waitlisted).
 
+**[Gemini CLI](https://github.com/google-gemini/gemini-cli)** - Google's open-source CLI coding agent with a 1M token context window, a generous free tier of 1,000 requests per day with a personal Google account, MCP support, and access to Gemini 2.5 Pro.
+
 **[Genie AI - ChatGPT - VS Code](https://github.com/ai-genie/chatgpt-vscode)** - A VS Code extension that integrates ChatGPT for coding assistance.
 
 **[GitBrain](https://gitbrain.dev/)** - A Git client that uses AI to simplify the Git workflow by splitting code changes, generating summaries, and writing commit messages.
@@ -275,6 +283,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Google Cloud Code AI (Duet AI)](https://cloud.google.com/products/duet-ai)** - Google's AI-powered collaborator integrated into Google Cloud services and IDEs, providing code assistance, chat support for Google Cloud queries, and smart actions.
 
 **[Google Gemini Code Assist](https://codeassist.google)** - Google's AI-powered code assistance, integrated into its development tools.
+
+**[Goose](https://github.com/aaif-goose/goose)** - An open-source, extensible AI agent by Block/AAIF that runs locally as a CLI or desktop app, automating coding tasks with support for 100+ LLM providers and MCP extensions for GitHub, databases, and other services.
 
 **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** - An open-source CLI agent that aims to generate entire codebases from a high-level prompt, asking clarifying questions as needed.
 
@@ -340,6 +350,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[MarsCode](https://www.marscode.com/)** - A cloud-based IDE with an AI assistant supporting over 100 languages and intelligent code completion.
 
+**[Mastra Code](https://code.mastra.ai/)** - A terminal-based AI coding agent built on Mastra's agent and memory primitives, supporting thousands of AI models with Build, Plan, and Fast modes, MCP servers, and project-scoped thread persistence.
+
 **[Matter AI](https://matterai.dev)** - An open-source AI Code Reviewer designed to help engineering teams release code with confidence.
 
 **[Melty](https://melty.sh/)** - An open-source VS Code fork with built-in chat, change previews, and the ability to write AI-powered commit messages.
@@ -383,6 +395,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
 
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
+
+**[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
@@ -489,6 +503,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Supermaven](https://supermaven.com/)** - A VS Code extension offering AI-powered autocomplete with a large 300,000-token context window.
 
 **[Supacodes](https://www.supacodes.com)** - An AI tool for automating GitHub code documentation.
+
+**[SWE-agent](https://github.com/SWE-agent/SWE-agent)** - A CLI agent from Princeton NLP that autonomously fixes GitHub issues and coding challenges using any LLM, featuring a specialized agent-computer interface and support for SWE-bench benchmarking.
 
 **[Sweep](https://sweep.dev/)** - An AI-powered coding assistant and GitHub integration that generates, tests, and self-reviews pull requests from issues.
 
