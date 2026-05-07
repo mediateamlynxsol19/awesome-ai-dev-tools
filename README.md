@@ -508,6 +508,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 
+**[TinyTools](https://tinytools-smoky.vercel.app/)** - A collection of free browser-based developer utilities including an AI Cost Calculator for comparing LLM pricing, an AI Robots.txt Generator for LLM crawlers, an AI Content Disclosure Generator (EU AI Act Article 50 compliant), an AI Background Remover that runs locally via WebAssembly, plus OG image, favicon, color palette, and SEO meta tag generators. No signup, open source.
+
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
 **[Trag](https://usetrag.com/)** - An AI-powered code review tool with customizable patterns and pre-defined instructions.
