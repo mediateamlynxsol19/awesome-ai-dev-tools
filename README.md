@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **292+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **294+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -208,6 +208,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Datadog](https://datadog.com/)** - An application monitoring platform with AI-powered insights and observability features.
 
+**[Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli)** - LangChain's open-source terminal coding agent built on the Deep Agents SDK, with file editing, shell execution, task planning, persistent memory, sub-agents, MCP tools, and human-in-the-loop approvals.
+
 **[DeepCode](https://www.deepcode.ai/)** - An AI-based static analysis tool for finding bugs, security vulnerabilities, and offering refactoring suggestions.
 
 **[DeepUnit](https://www.deepunit.ai/)** - An AI-powered tool for thoughtful test case generation and complete unit test files, available as a VS Code extension, npm package, CLI, or CI/CD pipeline.
@@ -301,6 +303,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Google Gemini Code Assist](https://codeassist.google)** - Google's AI-powered code assistance, integrated into its development tools.
 
 **[Goose](https://github.com/aaif-goose/goose)** - An open-source, extensible AI agent by Block/AAIF that runs locally as a CLI or desktop app, automating coding tasks with support for 100+ LLM providers and MCP extensions for GitHub, databases, and other services.
+
+**[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** - An open-source, lightweight TypeScript CLI blueprint for building AI-powered coding agents with Groq's fast inference, slash commands, session memory, and customizable system prompts.
 
 **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** - An open-source CLI agent that aims to generate entire codebases from a high-level prompt, asking clarifying questions as needed.
 
