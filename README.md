@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **261+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **280+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -84,6 +84,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AutoRegex](https://www.autoregex.xyz/)** - A web tool that uses OpenAI's GPT-3 to produce regular expressions from plain English descriptions.
 
+**[Autonoma](https://getautonoma.com/)** - An agentic end-to-end testing platform that generates test plans, runs tests in real browsers and devices, and integrates with GitHub for PR-based QA.
+
 **[Autodoc](https://github.com/context-labs/autodoc)** - A tool for generating codebase documentation using large language models like OpenAI and Alpaca.
 
 **[Base44](https://base44.com/)** - An AI coding tool for building full-stack web applications and MVPs with complex integrations.
@@ -144,6 +146,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Codebuff](https://www.codebuff.com/)** - A terminal-based coding assistant that uses natural language to modify codebases across 11 languages.
 
+**[CodeCanary](https://codecanary.sh/)** - An open-source AI code review tool for GitHub Actions or local use, offering incremental reviews, conversational re-evaluation, anti-hallucination safeguards, and multi-LLM support.
+
 **[CodeClimate](https://codeclimate.com/)** - A platform that provides code quality and maintainability insights through automated analysis.
 
 **[CodeComplete](https://codecomplete.ai/)** - A self-hosted enterprise code completion assistant.
@@ -190,6 +194,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Create.xyz](https://www.create.xyz/)** - An AI tool focused on creating prototypes and website designs.
 
+**[Critique](https://www.critique.sh/)** - A GitHub-native AI code review agent that uses multiple specialist agents to assess pull request risks across security, architecture, performance, and correctness.
+
 **[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
 
 **[CruxCLI](https://cruxcli.io/)** - A provider-agnostic open-source terminal AI coding agent with 24 task-specific modes that automatically map to model tiers, per-mode token budgets, workspace checkpoints, and support for 75+ LLM providers including Anthropic, OpenAI, Google, and Ollama.
@@ -203,6 +209,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[DeepUnit](https://www.deepunit.ai/)** - An AI-powered tool for thoughtful test case generation and complete unit test files, available as a VS Code extension, npm package, CLI, or CI/CD pipeline.
 
 **[DemoGPT](https://github.com/melih-unsal/DemoGPT)** - An auto Gen-AI App Generator powered by Llama 2 for building applications.
+
+**[DevAssure](https://devassure.io/)** - A code-aware autonomous testing agent that maps code changes to impacted tests and runs targeted validation from VS Code, Cursor, CLI, and CI workflows.
 
 **[Devin](https://devin.ai/)** - An AI software engineer developed by Cognition Labs, capable of autonomously handling entire software development projects from planning to deployment.
 
@@ -260,6 +268,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands.
 
+**[GitHub Copilot Code Review](https://docs.github.com/copilot/concepts/code-review)** - GitHub Copilot's AI-powered code review feature for pull requests and IDE workflows, providing contextual feedback and applyable suggestions.
+
 **[GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** - An AI-enhanced development environment that streamlines the software development process by generating development plans and enabling integrated code execution from GitHub issues.
 
 **[GitHub Spark](https://githubnext.com/projects/github-spark/)** - A platform for creating micro applications through natural language with instant deployment and AI integration.
@@ -305,6 +315,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Height](https://height.app/)** - An intelligent project management tool with AI-powered features for automated task organization and issue tracking.
 
 **[IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)** - An AI-powered mainframe application modernization product with code generation, discovery, and automated refactoring (COBOL to Java conversion).
+
+**[IMQA](https://www.imqa.ai/)** - An AI testing platform for creating natural-language tests with self-healing selectors, cross-browser execution, and video evidence capture.
 
 **[Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot)** - An open-source AI assistant with a built-in Python editor and interpreter.
 
@@ -370,6 +382,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
 
+**[Murphie](https://www.murphie.dev/)** - An autonomous QA agent that generates, runs, and self-heals tests in pull requests and CI pipelines, with evidence-backed failure reporting.
+
 **[Mutable](https://mutable.ai/)** - A web-based IDE and AI-powered platform focused on accelerating software development through prompt-driven development, test generation, and documentation.
 
 **[Mutahunter](https://mutahunter.ai)** - An open-source, AI-driven software testing and vulnerability detection tool that can find vulnerabilities and generate tests.
@@ -384,6 +398,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
+**[Ogoron](https://www.everydev.ai/tools/ogoron)** - An AI testing platform that analyzes code changes and application architecture to generate and maintain API, UI, and mobile tests.
+
 **[Onboard](https://www.getonboardai.com)** - An AI chat platform that allows users to chat with AI about public and private codebases.
 
 **[OneCompiler](https://onecompiler.com/)** - A free AI-powered online compiler supporting over 70 languages for writing, running, and sharing code.
@@ -397,6 +413,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
 
 **[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
+
+**[Orca](https://github.com/sebastianbreguel/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
