@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **280+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **283+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -182,6 +182,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[CodeWP](https://codewp.ai/)** - AI tools specifically trained for WordPress developers, offering code generation for snippets and plugins.
 
+**[Command Code](https://commandcode.ai/)** - A CLI-based AI coding agent that learns a developer's coding style, supports multiple LLM providers, and can build features, fix bugs, write tests, refactor code, and generate commits or pull requests.
+
 **[Composio](https://composio.dev/)** - An open-source toolset designed for building and managing AI Agents and LLMs.
 
 **[Conduit8](https://conduit8.dev)** - A CLI registry for discovering, installing, and managing Claude Code skills with one-command installation directly to ~/.claude/skills/.
@@ -268,7 +270,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands.
 
-**[GitHub Copilot Code Review](https://docs.github.com/copilot/concepts/code-review)** - GitHub Copilot's AI-powered code review feature for pull requests and IDE workflows, providing contextual feedback and applyable suggestions.
+**[GitHub Copilot Code Review](https://docs.github.com/copilot/concepts/code-review)** - GitHub Copilot's AI-powered code review feature for pull requests and IDE workflows, providing contextual feedback and applicable suggestions.
 
 **[GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** - An AI-enhanced development environment that streamlines the software development process by generating development plans and enabling integrated code execution from GitHub issues.
 
@@ -339,6 +341,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[KushoAI](https://kusho.ai/)** - An AI agent for comprehensive API testing, transforming Postman collections, OpenAPI specs, and curl commands into exhaustive test suites.
 
 **[Lazy AI](https://getlazy.ai/)** - An AI coding tool for building full-stack web applications and MVPs with complex integrations.
+
+**[Letta Code](https://docs.letta.com/letta-code)** - A memory-first AI coding agent with persistent agents that learn across sessions, portable memory across models, skills, and CLI, desktop, and chat integrations.
 
 **[Linear](https://linear.app/)** - A project management tool with AI-powered features for issue tracking and automated task organization.
 
@@ -413,6 +417,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
 
 **[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
+
+**[OpenCode](https://opencode.ai/)** - An open-source AI coding agent built for the terminal, desktop, and IDE workflows, with multi-provider model support, LSP integration, session management, and code-editing tools.
 
 **[Orca](https://github.com/sebastianbreguel/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
