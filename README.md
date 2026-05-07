@@ -66,6 +66,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)** - An AI assistant tightly integrated into Android Studio, designed to help Android developers generate code, find resources, and learn best practices.
 
+**[Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension)** - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
+
 **[API Copilot](https://apicopilot.dev/)** - An AI assistant specifically tailored for backend API development.
 
 **[Applitools](https://applitools.com/)** - A visual AI testing platform that compares UI screenshots across environments, using AI to detect meaningful visual regressions.
