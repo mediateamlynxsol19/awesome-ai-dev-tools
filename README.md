@@ -80,7 +80,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Atomist](https://atomist.com/)** - A platform that enables automatic code modification and refactoring through "code transformations."
 
-**[Augment Code](https://www.augmentcode.com)** - An AI-powered developer platform for professional engineers and large codebases, emphasizing enterprise security and utilizing multiple AI models.
+**[Augment Code](https://www.augmentcode.com)** - An AI-powered developer platform for professional engineers and large codebases, with Auggie CLI for terminal-based coding, semantic codebase understanding, resumable sessions, sub-agents, and CI/CD integration.
 
 **[AutoRegex](https://www.autoregex.xyz/)** - A web tool that uses OpenAI's GPT-3 to produce regular expressions from plain English descriptions.
 
