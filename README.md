@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **283+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **292+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -88,6 +88,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Autodoc](https://github.com/context-labs/autodoc)** - A tool for generating codebase documentation using large language models like OpenAI and Alpaca.
 
+**[Autohand AI](https://autohand.ai/?ref=terminaltrove)** - An adaptive continuous engineering platform for automating software development workflows with AI agents.
+
 **[Base44](https://base44.com/)** - An AI coding tool for building full-stack web applications and MVPs with complex integrations.
 
 **[Bito AI](https://bito.ai/)** - An AI assistant that integrates with IDEs and browsers to speed up development tasks, offering code generation, explanation, performance checks, security analysis, and more.
@@ -128,7 +130,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Claude Code](https://code.claude.com/)** - Anthropic's official agentic CLI coding tool that runs in your terminal, understands your codebase, and executes multi-step tasks through natural language. Supports VS Code and JetBrains IDE integration, GitHub/GitLab workflows, MCP servers, and multi-agent orchestration.
 
-**[Cline](https://cline.bot/)** - A VS Code extension and open-source AI coding assistant that can execute terminal commands, manage files, interact with browsers, and supports multiple AI models.
+**[Cline](https://cline.bot/)** - A VS Code extension and open-source AI coding assistant, with Cline CLI for terminal-based interactive and headless workflows that can execute commands, manage files, interact with browsers, automate CI/CD, and support multiple AI models.
 
 **[Clone UI](https://clone-ui.design/)** - A tool dedicated to generating Tailwind CSS UI components.
 
@@ -202,7 +204,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[CruxCLI](https://cruxcli.io/)** - A provider-agnostic open-source terminal AI coding agent with 24 task-specific modes that automatically map to model tiers, per-mode token budgets, workspace checkpoints, and support for 75+ LLM providers including Anthropic, OpenAI, Google, and Ollama.
 
-**[Cursor](https://cursor.sh/)** - An AI-first code editor built on a VS Code fork, deeply integrating AI features like codebase-aware chat, code generation, debugging assistance, and automated code migration.
+**[Cursor](https://cursor.sh/)** - An AI-first code editor and CLI built on a VS Code fork, deeply integrating AI features like codebase-aware chat, terminal agents, code generation, debugging assistance, and automated code migration.
 
 **[Datadog](https://datadog.com/)** - An application monitoring platform with AI-powered insights and observability features.
 
@@ -240,11 +242,13 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Explain Code](https://explain.dev/)** - An AI-powered tool for code explanation and documentation, making complex code easier to understand.
 
-**[Factory](https://www.factory.ai/)** - An AI-powered platform for code generation agents (currently waitlisted).
+**[Factory](https://www.factory.ai/)** - An AI-powered platform for code generation agents, including Droid CLI for terminal-based development workflows, codebase understanding, automation, and CI/CD integration.
+
+**[FauxPilot](https://github.com/fauxpilot/fauxpilot)** - An open-source code completion server compatible with CodeGen.
 
 **[Fine](https://fine.dev/)** - An AI Dev Environment for automating mundane work, integrating with GitHub, Sentry, and Linear for context-aware answers and automated CI/CD.
 
-**[FauxPilot](https://github.com/fauxpilot/fauxpilot)** - An open-source code completion server compatible with CodeGen.
+**[ForgeCode](https://forgecode.dev/)** - A CLI-based AI coding harness with multi-agent workflows, flexible model selection, custom agents, and codebase context tools for terminal-driven development.
 
 **[Frontend AI](https://www.webcrumbs.org/frontend-ai)** - An AI tool focused on creating prototypes and website designs.
 
@@ -330,6 +334,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Kilo Code](https://kilocode.ai)** - An open-source AI coding assistant for planning, building, and fixing code inside VS Code.
 
+**[Kimi Code CLI](https://kimi.com/code)** - Kimi's terminal-based AI coding agent for reading and editing code, running commands, understanding large projects, and automating software development tasks.
+
 **[Kiro.dev](https://kiro.dev/)** - An AI-powered IDE by Amazon built on a VS Code fork, focused on spec-driven development and agentic workflows for cloud projects, featuring autonomous agent hooks, AWS resource scaffolding, and multimodal chat.
 
 **[Kodezi](https://kodezi.com/)** - A comprehensive AI-powered developer tool for code assistance.
@@ -384,6 +390,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mintlify Writer](https://writer.mintlify.com/)** - A VS Code extension focused specifically on generating documentation for code, such as docstrings for functions and classes.
 
+**[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
+
 **[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
 
 **[Murphie](https://www.murphie.dev/)** - An autonomous QA agent that generates, runs, and self-heals tests in pull requests and CI pipelines, with evidence-backed failure reporting.
@@ -391,6 +399,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Mutable](https://mutable.ai/)** - A web-based IDE and AI-powered platform focused on accelerating software development through prompt-driven development, test generation, and documentation.
 
 **[Mutahunter](https://mutahunter.ai)** - An open-source, AI-driven software testing and vulnerability detection tool that can find vulnerabilities and generate tests.
+
+**[Nanocoder](https://github.com/Nano-Collective/nanocoder)** - A local-first, open-source terminal coding agent with interactive and non-interactive modes, multi-provider support, local model support, and community-driven development.
 
 **[New Relic](https://newrelic.com/)** - A performance monitoring platform with intelligent alerting and AI-powered insights for application observability.
 
@@ -410,15 +420,17 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
 
-**[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
-
-**[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
-
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
 
 **[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
 
+**[OpenBlock OB-1](https://openblocklabs.com/)** - A self-improving AI coding agent from OpenBlock Labs for terminal and workflow automation, with multi-model support, reusable skills, session forking, and integrations with GitHub, Linear, Slack, and VS Code.
+
 **[OpenCode](https://opencode.ai/)** - An open-source AI coding agent built for the terminal, desktop, and IDE workflows, with multi-provider model support, LSP integration, session management, and code-editing tools.
+
+**[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
+
+**[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
 
 **[Orca](https://github.com/sebastianbreguel/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
@@ -427,6 +439,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
 
 **[Phind](https://www.phind.com/)** - An AI search engine specifically designed for developers, providing direct answers to technical questions with code examples.
+
+**[Pi Coding Agent](https://pi.dev/)** - A minimal, extensible terminal coding agent with multi-provider model support, tree-structured sessions, TypeScript extensions, skills, prompt templates, and scripting or SDK modes.
 
 **[Pico](https://picoapps.xyz)** - An end-to-end micro app generator with instant deployment.
 
@@ -460,6 +474,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Qodo AI](https://www.qodo.ai)** - A quality-focused generative AI coding platform (formerly Codium) with specialized agents for code generation, test coverage, and merge assistance.
 
+**[Qwen Code](https://github.com/QwenLM/qwen-code)** - An open-source terminal AI coding agent optimized for Qwen models, with multi-provider support, built-in tools, skills, sub-agents, and IDE integrations.
+
 **[Quack AI](https://www.quack-ai.com/)** - A VS Code extension for adhering to project coding guidelines and enforcing standards.
 
 **[Rapidpages](https://www.rapidpages.io/)** - An open-source UI generator for rapid web interface creation.
@@ -479,6 +495,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Replit Ghostwriter](https://replit.com/ghostwriter)** - Replit's integrated AI coding assistant, offering code completion, generation, transformation, and explanation within the online IDE.
 
 **[Roo Code](https://github.com/RooVetGit/Roo-Code)** - A VS Code extension with natural language interaction, multi-provider support, and specialized coding modes.
+
+**[Rovo Dev CLI](https://support.atlassian.com/rovo/docs/use-rovo-dev-cli)** - Atlassian's terminal-based AI coding agent for code generation, review, refactoring, debugging, documentation, unit tests, Jira work items, Confluence content, and MCP-powered workflows.
 
 **[Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode)** - An open-source chat assistant for the Visual Studio Code sidebar.
 
