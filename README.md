@@ -8,6 +8,14 @@
 
 > A curated collection of **294+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
+# NeuroNest AI DevOps Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI DevOps assistant built to help developers and technical teams improve software delivery from planning to deployment. It supports coding, debugging, testing, security checks, automation, DevOps workflows, and research tasks, making development faster, cleaner, and more organized.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## 📋 Table of Contents
 
 - [🎯 About](#-about)
